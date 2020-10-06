@@ -1,0 +1,35 @@
+﻿@page "/librarydetails/{Id}"
+@inherits LocationDetailsBase
+
+
+@if (Location == null || Books == null)
+{
+    <div class="spinner">
+    </div>
+}
+else
+{
+<div class="container-fluid lib-details">
+    <h5>
+        @Location.LibraryName
+    </h5>
+    <h5 class="mt-2">
+        Available Books : @count
+    </h5>
+    <a class="btn btn-primary" style="margin-left:90%;" href="@($"libraries")"> All Libraries</a>
+    <hr style="border-top: 2px solid rgb(0, 0, 0);" />
+    <div class="card-columns mt-4" style="margin:auto; text-align:center; column-count:auto;">
+        @foreach (var book in Books)
+        {
+            <div class="card" style="width: 18rem; margin-left:1rem;">
+                <img src="@book.PhotoPath" class="card-img-top imageThumbnail" alt="@book.Name">
+                <div class="card-body text-center">
+                    <h5 class="card-title">@book.Name</h5>
+                    <a class="btn btn-info" href="@($"bookdetails/{book.id}")">View</a>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+}

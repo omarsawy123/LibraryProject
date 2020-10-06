@@ -1,0 +1,57 @@
+﻿@inherits HeaderBase
+
+<header class="masthead">
+    <div class="container h-100">
+        <div class="row h-100 align-items-center justify-content-center text-center">
+            <div class="col-lg-10 align-self-end">
+                <h1 class="text-uppercase text-white font-weight-bold">Find all Books you want</h1>
+                <hr class="divider my-4" />
+            </div>
+            <div class="col-lg-8 align-self-baseline">
+                <div class="input-group md-form form-sm form-2 pl-0">
+                    <input class="form-control my-0 py-1 " type="text" placeholder="Search" aria-label="Search"
+                           @bind-value="@SearchTerm" @bind-value:event="oninput">
+                    <div class="input-group-append">
+                        <span class="input-group-text lime lighten-2" id="basic-text1">
+                            <i class="fas fa-search text-grey"
+                               aria-hidden="true"></i>
+                        </span>
+                    </div>
+                </div>
+                <div class="dropdown">
+
+                    @if (!string.IsNullOrEmpty(SearchTerm))
+                    {
+
+                        int count = 0;
+                        Found = BookList.Where(e => e.Name.ToLower().Contains(SearchTerm.ToLower())).ToList();
+                        <div class="dropdown-menu show" style="width:95%;">
+                            @foreach (var item in Found)
+                            {
+                                if (count >= 5)
+                                {
+                                    break;
+                                }
+
+                                else
+                                {
+
+                                    <a id="search-dropdown" class="dropdown-item" href="@($"bookdetails/{item.id}")">@item.Name</a>
+
+                                    count++;
+                                }
+                            }
+
+                        </div>
+                    }
+
+                    </div>
+                <p class="text-white-75 mt-4 font-weight-light mb-5">
+                    Search Libraries across the country
+                </p>
+                <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+            </div>
+        </div>
+    </div>
+</header>
+

@@ -1,0 +1,95 @@
+﻿@page "/editbook/{Id}"
+@page "/addbook"
+@inherits EditBookBase
+
+
+<div class="container" style="margin-top:5%;">
+    <h4>@HeaderText</h4>
+    <hr />
+    <EditForm Model="@EditBookModel" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+        <ValidationSummary></ValidationSummary>
+        <div class="form-group row">
+            <label for="bookname" class="col-sm-2 col-form-label">
+                Book Name
+            </label>
+            <div class="col-sm-10">
+                <InputText id="bookname" class="form-control" placeholder="Book Name" @bind-Value="EditBookModel.Name">
+                </InputText>
+                <ValidationMessage For="@(()=>EditBookModel.Name)"></ValidationMessage>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="bookcategory" class="col-sm-2 col-form-label">
+                Book Category
+            </label>
+            <div class="col-sm-10">
+                <InputSelect id="bookcategory" class="form-control" @bind-Value="EditBookModel.Category">
+                    @foreach (var category in Enum.GetValues(typeof(Category)))
+                    {
+                        <option value="@category">@category</option>
+                    }
+                </InputSelect>
+                <ValidationMessage For="@(()=>EditBookModel.Category)"></ValidationMessage>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="bookprice" class="col-sm-2 col-form-label">
+                Book Price
+            </label>
+            <div class="col-sm-10">
+                <InputNumber id="bookprice" class="form-control" placeholder="Book Price" @bind-Value="EditBookModel.Price">
+
+                </InputNumber>
+                <ValidationMessage For="@(()=>EditBookModel.Price)"></ValidationMessage>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="bookauthor" class="col-sm-2 col-form-label">
+                Book Author
+            </label>
+            <div class="col-sm-10">
+                <InputText id="bookauthor" class="form-control" placeholder="Book Author" @bind-Value="EditBookModel.Author">
+
+                </InputText>
+                <ValidationMessage For="@(()=>EditBookModel.Author)"></ValidationMessage>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="booklibraryname" class="col-sm-2 col-form-label">
+                Book Library Name
+            </label>
+            <div class="col-sm-10">
+                <CustomInputSelect id="booklibraryname" class="form-control" placeholder="Book Library Name" @bind-Value="EditBookModel.locationId">
+                    @foreach (var loc in Locations)
+                    {
+                        <option value="@loc.id">@loc.LibraryName</option>
+                    }
+                </CustomInputSelect>
+
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="bookphoto" class="col-sm-2 col-form-label">
+                Book Photo
+            </label>
+            <div class="col-sm-10">
+                <InputFile OnChange="HandleSelectedFile"  />
+               
+            </div>
+        </div>
+        <hr />
+        <a class="btn btn-outline-secondary mr-2" href="@($"books")">Cancel</a>
+        <button class="btn btn-success mr-2" type="submit">Save</button>
+        @if (EditBookModel.id > 0)
+        {
+            <button class="btn btn-outline-danger float-right" type="button" @onclick="Delete_Click">Delete</button>
+        }
+    </EditForm>
+</div>
+<Confirm @ref="DeleteConfirmation" ConfirmationChanged="ConfirmDelete_Click"></Confirm>
+
+

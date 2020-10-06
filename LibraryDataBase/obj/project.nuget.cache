@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UObRrPcu7tujbprHzQm+/3p1wykzan9FezsuTS3FUv0xkOiQR2qOdePUy6FarTgU8TVxeX1PzeQeT4T97pqJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Win 7\\Desktop\\LibraryProject\\LibraryDataBase\\LibraryDataBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win 7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Win 7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Win 7\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.7.20364.11\\system.componentmodel.annotations.5.0.0-preview.7.20364.11.nupkg.sha512"
+  ],
+  "logs": []
+}

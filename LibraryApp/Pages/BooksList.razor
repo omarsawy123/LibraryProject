@@ -1,0 +1,32 @@
+﻿@page "/Books"
+@inherits BooksListBase
+
+@if (Books == null)
+{
+<div class="spinner"></div>
+}
+else
+{
+<div class="card-columns mt-2" style="margin:auto; text-align:center; column-count:auto;">
+    @foreach (var book in Books)
+    {
+        @if (book.PhotoPath == null)
+        {
+            book.PhotoPath = "images/5.png";
+        }
+        <div class="card" style="width: 18rem; margin-left:1rem;">
+            <img src="@book.PhotoPath" class="card-img-top imageThumbnail" alt="@book.Name">
+            <div class="card-body text-center">
+                <h5 class="card-title">@book.Name</h5>
+                <a class="btn btn-info" href="@($"bookdetails/{book.id}")">View</a>
+
+            </div>
+        </div>
+
+    }
+</div>
+}
+
+
+
+

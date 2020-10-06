@@ -1,0 +1,27 @@
+﻿@page "/bookdetails/{Id}"
+@inherits BookDetailsBase
+
+@if (book == null || book.Location == null)
+{
+    <div class="spinner">
+    </div>
+}
+else
+{
+<div class="container">  
+    <div class="card " style="width: 18rem; margin:auto; margin-top:2%;">
+        <img src="@book.PhotoPath" class="card-img-top imageThumbnail " alt="@book.Name">
+        <div class="card-body text-center">
+            <h5 class="card-title">@book.Name</h5>
+            <h5 class="card-title">City : @(book.Location==null?"City Not Found": book.Location.CityName)</h5>
+            <h5>Library : <a class="card-title" href="@($"librarydetails/{book.locationId}")">@(book.Location==null?"Library Not Found":book.Location.LibraryName)</a></h5>
+            <AuthorizeView>
+                <Authorized>
+                    <a class="btn btn-outline-info mt-2" href="@($"editbook/{book.id}")">Edit</a>
+                </Authorized>
+            </AuthorizeView>
+
+        </div>
+    </div>
+</div>
+}

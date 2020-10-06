@@ -1,0 +1,30 @@
+﻿@page "/Libraries"
+@inherits LocationsListBase
+
+
+@if (Locations == null)
+{
+    <div class="spinner"></div>
+}
+else
+{
+<div class="card-columns mt-2" style="margin:auto; text-align:center; column-count:auto;">
+    @foreach (var loc in Locations)
+    {
+        <div class="card" style="width: 18rem; margin-left:1rem;">
+            <img src="@loc.PhotoPath" class="card-img-top imageThumbnail" alt="@loc.LibraryName">
+            <div class="card-body text-center">
+                <h5 class="card-title">@loc.LibraryName</h5>
+                <a class="btn btn-info mr-2" href="@($"librarydetails/{loc.id}")">View</a>
+                <AuthorizeView>
+                    <Authorized>
+                        <a class="btn btn-outline-secondary" href="@($"editlibrary/{loc.id}")">Edit</a>
+                    </Authorized>
+                </AuthorizeView>
+
+            </div>
+        </div>
+
+    }
+</div>
+}

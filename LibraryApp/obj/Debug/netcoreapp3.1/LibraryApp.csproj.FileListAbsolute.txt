@@ -1,0 +1,762 @@
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csprojAssemblyReference.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorComponent.input.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.input.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.output.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorCoreGenerate.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.Manifest.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.xml
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CopyComplete
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\BooksList.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryDataBase.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryDataBase.pdb
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\_404_NotFound.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\About.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Header.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\BookDetails.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditBook.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.StaticWebAssets.xml
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\RazorLibraryClass.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\RazorLibraryClass.pdb
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\LocationsList.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\LocationDetails.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditLocation.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Services.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Footer.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\LibraryApp.dll
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\About.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Footer.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Header.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Services.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\BookDetails.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\BooksList.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\EditBook.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\EditLocation.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Home.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\LocationDetails.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\LocationsList.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\_404_NotFound.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.StaticWebAssets.xml
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryDataBase.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\RazorLibraryClass.dll
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\LibraryDataBase.pdb
+G:\Users\omar\source\repos\LibraryApp\bin\Debug\netcoreapp3.1\RazorLibraryClass.pdb
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csprojAssemblyReference.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.MvcApplicationPartsAssemblyInfo.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorComponent.input.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\About.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Footer.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Header.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Services.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\BookDetails.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\BooksList.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditBook.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditLocation.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Home.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\LocationDetails.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\LocationsList.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\_404_NotFound.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\LibraryApp.dll
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.input.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.output.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorCoreGenerate.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\About.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Footer.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Header.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Services.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\BookDetails.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\BooksList.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\EditBook.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\EditLocation.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Home.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\LocationDetails.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\LocationsList.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\_404_NotFound.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cs
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CopyComplete
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.Manifest.cache
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.xml
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+G:\Users\omar\source\repos\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.StaticWebAssets.xml
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\BlazorInputFile.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryDataBase.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\RazorLibraryClass.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\LibraryDataBase.pdb
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\bin\Debug\netcoreapp3.1\RazorLibraryClass.pdb
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csprojAssemblyReference.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorComponent.input.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\About.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Footer.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Header.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\HomePageComponent\Services.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\BookDetails.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\BooksList.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditBook.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditLocation.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\LocationDetails.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\LocationsList.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\_404_NotFound.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\RazorDeclaration\LibraryApp.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.input.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.TagHelpers.output.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorCoreGenerate.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\About.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Footer.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Header.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\HomePageComponent\Services.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\BookDetails.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\BooksList.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\EditBook.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\EditLocation.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Home.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\LocationDetails.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\LocationsList.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Shared\_404_NotFound.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorAssemblyInfo.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.RazorTargetAssemblyInfo.cs
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.Views.pdb
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CopyComplete
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.Manifest.cache
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\staticwebassets\LibraryApp.StaticWebAssets.xml
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\Win 7\Desktop\LibraryProject\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
